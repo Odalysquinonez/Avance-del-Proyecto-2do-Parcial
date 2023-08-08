@@ -1,0 +1,123 @@
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Sergio Lara
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: josem m
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Luis Lara
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Mara S
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Sergio Quiñonez
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: juan jose
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Luis Lara
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: odalys quiñonez
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: odalys quiñl
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: luis as
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+ Estudiante : {'_cedula': None, '_nombre': 'jose', '_apellido': 'andrade ', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_nivel': 1}
+ Docente : {'_cedula': None, '_nombre': 'maria', '_apellido': 'del ba', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': None, '_nombre': 'JOSE', '_apellido': 'paz', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': None, '_nombre': 'ODA', '_apellido': 'lysa', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 2, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': None, '_nombre': 'LUIS', '_apellido': 'pare', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 3, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '2841085554', '_nombre': 'luis ', '_apellido': 'perez', '_email': 'sadcfvgbhnjmklkjhg', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '', '_nombre': '', '_apellido': '', '_email': '', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '0971627282', '_nombre': 'odalys', '_apellido': 'quiñonez', '_email': 'odalysro@gmail.com', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '0926383838', '_nombre': 'sergio', '_apellido': 'jaime', '_email': 'sergio@gmail.ces', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 2, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '5520555555', '_nombre': 'Caroline', '_apellido': 'Mero', '_email': 'CarolineMero99@gmailcom', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 3, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Docente : {'_cedula': '8520520520', '_nombre': 'carla', '_apellido': 'Zapata', '_email': 'ZapataCa.djdididcom', '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 4, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
